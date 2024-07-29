@@ -11,7 +11,7 @@ EFCloud机场最低套餐月付10元,支持支付宝/微信支付。
 ## EFCloud优惠码1111
 
 暂无可用优惠码
-11
+111
 ## EFCloud价格
 
 |套餐|Basics|Prime|
